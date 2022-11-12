@@ -3,7 +3,9 @@
 ---Dishes---
 
 Pizza
+Kebap
 
 ---Drinks---
 
 Beer
+Ayran
