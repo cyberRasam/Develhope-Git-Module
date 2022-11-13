@@ -5,9 +5,11 @@
 Pizza
 Kebap
 Pasta
+Lasagne
 
 ---Drinks---
 
 Beer
 Ayran
 Cola 
+Fanta
